@@ -1,0 +1,62 @@
+*{
+    font-family: 'Graphik','Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+.colorfondo{
+    background-color:  #FFFC00 !important;
+    
+
+}
+.fantasma {
+    position:absolute;
+    top: 20px;
+    
+}
+
+
+.codigo-area{
+    height: 20px; 
+    width: 10px;
+    border:15px;
+}
+
+
+.boton  {
+    background-color: #000;
+    border-radius: 0 5px 5px 0;
+    color: #fff;
+    font-family: Graphik-Semibold;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: center;
+
+}
+.probarsnp{
+    font-family: Graphik-Semibold;
+    font-size: 42px;
+    font-weight: 300;
+    line-height: 42px;
+    min-height: 1rem;
+    display: block;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.video{
+    width: 311px;
+    border-radius: 15px;
+    margin: 50px 40px 0px 170px;
+}
+.list-unstyled{
+    text-decoration: none;
+    font-size: 13px;
+}
+.probarsnp{
+        font-size: 42px;
+    font-weight: 300;
+    line-height: 42px;
+    margin: 0 0 12px 0;
+}
